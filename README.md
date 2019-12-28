@@ -10,3 +10,5 @@
 #### 3）后台系统可以实现对商品、订单、用户等的管理。
 
 ![系统首页](https://github.com/qiang5201/online-website/blob/master/img/%E9%A6%96%E9%A1%B5.png) 
+
+![商品信息](https://github.com/qiang5201/online-website/blob/master/img/%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF.png) 
